@@ -8,7 +8,7 @@ export default function App() {
   function add() {
     if (list) {
       setArr([...arr, list])
-      setList('')
+      setList('131231231')
     }
   }
 
